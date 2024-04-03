@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^8.2.6",
+    "nanospinner": "^1.1.0"
+  },
+  "type": "module",
+  "name": "to-do-tracker",
+  "description": "You will put everything you learned together and build a command line application that utilizes different NPM packages. These could be packages that were used this past week or ones that you researched and found on your own.",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Devin Griffin",
+  "license": "ISC"
+}
